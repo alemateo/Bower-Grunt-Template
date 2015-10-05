@@ -1,0 +1,14 @@
+{
+  "name": "BowerGrunt-base",
+  "version": "0.0.0",
+  "authors": [
+    "rjoelestramil <joel.estramil@pyxisportal.com>"
+  ],
+  "description": "BowerGrunt-base ...",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}

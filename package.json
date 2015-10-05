@@ -1,0 +1,24 @@
+{
+  "name": "bowergrunt-template",
+  "version": "1.0.0",
+  "description": "project template with bower and grunt",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.3",
+    "grunt-script-link-tags": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "d"
+  }
+}
